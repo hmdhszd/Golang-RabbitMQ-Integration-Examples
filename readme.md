@@ -1,4 +1,18 @@
 
+## Get Program
+
+Get a copy of the program:
+
+```bash
+  git clone https://github.com/hmdhszd/Golang-RabbitMQ-Integration-Examples.git
+```
+
+Go to the project directory:
+
+```bash
+  cd Golang-RabbitMQ-Integration-Examples
+```
+
 ## Run RabbitMQ
 
 First, run RabbitMQ in docker:
